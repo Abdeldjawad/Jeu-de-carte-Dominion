@@ -92,6 +92,6 @@ Les joueurs comptent alors les points de victoire dans leur deck, et celui qui e
 
 ## Carte Royaume 
 
-![Carte 1](Images/Screenshot from 2025-01-13 21-01-33.png)
+![Carte 1](Images/carte1.png)
 
 ### Bon jeu et que votre royaume prospère ! 🎲👑
