@@ -1,65 +1,93 @@
-Jeu de carte Dominion :
+# Jeu de Carte Dominion
 
-Dominion est un jeu où vous construisez un deck qui représente votre royaume. Il est constitué
-de vos ressources, de vos points de victoire, et des nombreuses actions que vous pouvez effectuer.
-Au départ ce n’est qu’un piètre ramassis de propriétés et de pièces de cuivre mais vos ambitions
-feront en sorte qu’à la fin de la partie votre deck fourmille de pièces d’or, de provinces et de
-nombreux citoyens et constructions qui constituent votre château et royaume.
-Dans la boîte de base voici comment se déroule la partie.
-Le jeu est axé sur un principe très simple : constituer un deck victorieux qui servira et s’enrichira tout au long de la partie. Les cartes sont de trois catégories :
-• Les cartes Victoire : Domaines, Duchés ou Provinces, ce sont des cartes qui n’ont qu’une
-fonction : rapporter des points de victoire en fin de partie. Elle "pollueront" donc le deck
-dès qu’elles y seront ajoutées, mais sont nécessaires pour gagner.
-• Les cartes Royaume : Ce sont les cartes action du jeu, (le jeu de base en comporte 25
-différentes), elles apportent chacune leur lot de possibilité et permettent des "combos".
-• Les cartes Trésor : Comme souvent, l’argent c’est le nerf de la guerre, les cartes Trésor
-vous permettent d’acquérir de nouvelles cartes et ainsi d’étoffer votre deck.
-La préparation demande en premier lieu de choisir les 10 cartes Royaume qui seront en
-jeu, (les autres ne serviront pas et resteront dans la boîte). Les 10 exemplaires (12 pour les
-jardins) des cartes choisies sont placés en piles, face visible, sur la table. Les cartes pourront
-être achetées par les joueurs, tant qu’elles seront disponibles. Voici la configuration initiale sur
-la table :
+**Dominion** est un jeu où vous construisez un deck qui représente votre royaume. Il est constitué de vos ressources, de vos points de victoire, et des nombreuses actions que vous pouvez effectuer. 
 
-Chaque joueur commence dans son deck avec :
-• 7 cartes de cuivre, valant 1 d’achat ;
-• 3 cartes de domaine, donnant chacune un point de victoire.
+Au départ, ce n’est qu’un piètre ramassis de propriétés et de pièces de cuivre, mais vos ambitions feront en sorte qu’à la fin de la partie votre deck fourmille de pièces d’or, de provinces, et de nombreux citoyens et constructions qui constituent votre château et royaume.
 
-On place ensuite les cartes Trésor (cuivre, argent et or ), les cartes Victoire (12 domaines, 12
-duchés et 12 provinces à 3 ou 4 joueurs ; contre 8 à 2 joueurs), ainsi que les cartes Malédiction,
-en piles, face visible.
-Le terme Rebut désignera l’emplacement où seront placées les cartes écartées définitivement
-durant la partie.
+---
 
-Chaque joueur, à son tour, joue les 3 phases qui constituent un tour de jeu :
-1. La Phase Action : Durant cette phase le joueur peut jouer, s’il en a au moins une en
-main, une carte Action. La carte jouée est résolue immédiatement et complètement avant
-d’éventuellement en jouer une autre (si la carte jouée vous le permet). Les cartes actions
-permettent :
-• de jouer X actions supplémentaires pour ce tour.
-• de piocher immédiatement X cartes de votre deck.
-• de disposer de X pièces supplémentaires pour votre phase d’achat de ce tour.
-• de disposer d’un achat supplémentaire pour ce tour.
-• de défausser des cartes de votre main dans votre défausse personnelle.
-• de mettre une carte au rebut (elle est donc écartée définitivement de la partie).
-• de recevoir une carte, soit dans votre main, soit sur votre pile de défausse.
-• de mettre des cartes de côté, jusqu’à ce que les instructions indiquent où les mettre.
-2. La Phase Achat : Lors de cette phase le joueur peut acheter une carte de la réserve
-(parmi les cartes Trésor, Victoire et Royaume, voire même Malédiction). Si le joueur a
-joué, durant sa phase action, des cartes lui permettant d’augmenter son nombre d’achat,
-il pourra acheter plusieurs cartes. Les cartes ainsi acquises sont placées dans la pile de
-défausse du joueur.
-Si vous avez la possibilité de faire plusieurs achats, vous devez les faire en combinant les
-cartes Trésor ainsi que les pièces supplémentaires dues aux cartes Action jouées ce tour.
-Note : Il est possible de faire un achat à 0 (les cartes cuivre par exemple).
-3. La Phase Ajustement : en plus cartes acquises ce tour qui s’y trouvent déjà, le joueur place
-toutes les cartes jouées dans les phases Action et Achat (Royaume ou Trésor) ainsi que
-les cartes qu’il a encore en main, dans sa défausse. Le joueur pioche ensuite 5 nouvelles
-cartes de son deck, pour former sa nouvelle main (s’il n’y a plus assez de cartes dans son
-deck, il mélange les cartes de sa défausse pour reformer son deck et y pioche les cartes
-manquantes).
+## Règles du Jeu
 
-La partie se termine à la fin du tour d’un joueur, lorsque :
-• La réserve de cartes Province est vide.
-• OU 3 piles de la réserve sont vides (la pile malédiction compte).
-Les joueurs comptent alors les points de victoire qui se trouvent sur les cartes de leur deck,
-celui qui en a le plus gagne.
+### Objectif
+Le jeu est axé sur un principe très simple : **constituer un deck victorieux** qui servira et s’enrichira tout au long de la partie.
+
+---
+
+### Catégories de Cartes
+Les cartes du jeu sont réparties en trois catégories principales :
+
+1. **Cartes Victoire**  
+   Domaines, Duchés ou Provinces : ces cartes rapportent des points de victoire en fin de partie, mais "polluent" le deck dès qu’elles y sont ajoutées. Elles sont cependant nécessaires pour gagner.
+
+2. **Cartes Royaume**  
+   Ces cartes action (25 différentes dans le jeu de base) apportent chacune leur lot de possibilités et permettent des combos.
+
+3. **Cartes Trésor**  
+   L’argent est le nerf de la guerre ! Ces cartes permettent d’acquérir de nouvelles cartes et d’étoffer votre deck.
+
+---
+
+## Configuration Initiale
+
+### Préparation de la Table
+1. **Choisissez 10 cartes Royaume** qui seront utilisées pour cette partie (les autres restent dans la boîte).  
+   Placez 10 exemplaires de chaque carte choisie en piles visibles sur la table (12 pour les Jardins).
+
+2. **Disposition des Cartes**  
+   - Cartes Trésor : cuivre, argent, or.  
+   - Cartes Victoire : domaines, duchés, provinces.  
+   - Cartes Malédiction (si nécessaire).  
+   - Une pile pour les cartes écartées définitivement : le **Rebut**.
+
+### Deck Initial des Joueurs
+Chaque joueur commence avec :
+- **7 cartes de cuivre** (valant 1 pièce d’achat).  
+- **3 cartes de domaine** (valant 1 point de victoire chacune).
+
+---
+
+## Déroulement d’un Tour
+
+Chaque joueur, à son tour, joue les **3 phases suivantes** :
+
+### 1. Phase Action
+Le joueur peut jouer une carte Action (s’il en a une dans sa main). Les cartes actions permettent de :
+- Jouer des actions supplémentaires pour ce tour.
+- Piocher des cartes supplémentaires.
+- Gagner des pièces supplémentaires pour la phase d’achat.
+- Effectuer des achats supplémentaires.
+- Défausser ou écarter des cartes.
+- Ajouter des cartes à sa main ou sa défausse.
+- Mettre des cartes de côté temporairement.
+
+---
+
+### 2. Phase Achat
+Le joueur peut acheter des cartes de la réserve :
+- Combinez vos cartes Trésor et les pièces supplémentaires obtenues via les actions.
+- Placez les cartes achetées dans votre pile de défausse.
+- Si vous avez plusieurs achats possibles, utilisez-les.
+
+**Note** : Les cartes à coût 0, comme le cuivre, peuvent être achetées gratuitement.
+
+---
+
+### 3. Phase Ajustement
+Le joueur :
+1. Place toutes les cartes jouées et celles encore en main dans sa défausse.  
+2. Pioche 5 nouvelles cartes pour former sa main.  
+   - Si le deck est vide, mélangez la défausse pour reformer un deck.  
+
+---
+
+## Fin de Partie
+
+La partie se termine à la fin du tour d’un joueur lorsque l’une des conditions suivantes est remplie :
+1. **La pile de cartes Province est vide.**  
+2. **Trois piles de la réserve sont vides** (y compris la pile Malédiction).
+
+Les joueurs comptent alors les points de victoire dans leur deck, et celui qui en a le plus remporte la partie.
+
+---
+
+### Bon jeu et que votre royaume prospère ! 🎲👑
