@@ -90,8 +90,17 @@ Les joueurs comptent alors les points de victoire dans leur deck, et celui qui e
 
 ---
 
-## Carte Royaume 
+## Cartes Royaume 
 
 ![Carte 1](Images/carte1)
+![Carte 2](Images/carte2)
+![Carte 3](Images/carte3)
+![Carte 4](Images/carte4)
+![Carte 5](Images/carte5)
+![Carte 6](Images/carte6)
+![Carte 7](Images/carte7)
+![Carte 8](Images/carte8)
+![Carte 9](Images/carte9)
+![Carte 10](Images/carte10)
 
 ### Bon jeu et que votre royaume prospère ! 🎲👑
